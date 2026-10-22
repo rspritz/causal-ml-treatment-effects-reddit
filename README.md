@@ -1,5 +1,5 @@
 # causal-ml-treatment-effects-reddit
-This project uses Double Machine Learning (DML) and Causal Forest methods to show that during COVID-19, in mainstream subreddits, partisan language decreased user engagement with posts. These results suggest that there is a polarization penalty for online content. [Read the full paper (PDF)]("The Polarization Penalty_Partisan Intense Language and Online Engagement_Rebecca Spritzer.pdf")
+This project uses Double Machine Learning (DML) and Causal Forest methods to show that during COVID-19, in mainstream subreddits, partisan language decreased user engagement with posts. These results suggest that there is a polarization penalty for online content. [Read the full paper (PDF)](The%20Polarization%20Penalty_Partisan%20Intense%20Language%20and%20Online%20Engagement_Rebecca%20Spritzer.pdf)
 
 The main script to run is ANALYSIS_CODE. This notebook utilizes reddit_datset_final_politicaladded.parquet which includes political classifications generated using the alhalla/distilbart-mnli-12-3 model.
 
