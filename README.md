@@ -5,4 +5,4 @@ The main script to run is ANALYSIS_CODE. This notebook utilizes reddit_datset_fi
 
 Since Large Languag eModels(LLMs) can exhibit stochastic variation this script is designed to load the pre-computed labels to ensure exact replication of the results presented in the paper.
 
-If interested in the label classification, the source logic is available in the Detailed_Code folder. Re-running the classification will yield marginally different labels but will not significantly alter the direction or significance of the average treatment effect.
+If interested in the label classification, the source logic is available upon request [rebecca.spritzer@gmail.com]. Re-running the classification will yield marginally different labels but will not significantly alter the direction or significance of the average treatment effect.
